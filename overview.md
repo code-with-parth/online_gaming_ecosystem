@@ -1,3 +1,3 @@
-# Overview.Md
+# Overview
 
-Placeholder content for overview.md.
+This document provides an overview of the Online Gaming Ecosystem solution. The goal is to enhance transparency and promote responsible gaming.
