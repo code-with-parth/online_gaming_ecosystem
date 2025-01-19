@@ -1,1 +1,3 @@
-# online_gaming_ecosystem
+# Online Gaming Ecosystem
+
+A tech-based solution for enhancing trust, transparency, and responsible gaming.
