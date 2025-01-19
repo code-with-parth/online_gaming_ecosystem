@@ -10,3 +10,4 @@ A tech-based solution for enhancing trust, transparency, and responsible gaming.
 ## Getting Started
 1. Clone the repository.
 2. Install dependencies using `pip install -r requirements.txt`.
+3. Follow individual module instructions in the `docs` folder.
